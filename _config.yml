@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: aryan7tiwary
+email: aryantiwary10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Hello, I'm a Cybersecurity Enthusiast at high school, where I'm studying pure science and computer science (12th Grade). My long-term ambitions include attending a good university and majoring in advanced computer science. I want to get my CISSP certification.
+twitter_username: aryan7tiwary
+github_username: aryan7tiwary
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Aryan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A high school student aspiring to work in the field of information security. In HackTheBox and Tryhackme, I participate in CTFs."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
