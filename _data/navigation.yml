@@ -1,8 +1,6 @@
 main:
-  - title: "Blog"
-    url: /blog/   
-  - title: "Writeups"
-    url: /writeups/
+  - title: "Posts"
+    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"

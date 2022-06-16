@@ -60,6 +60,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A high school student aspiring to work in the field of information security. In HackTheBox and Tryhackme, I participate in CTFs."
   links:
+
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aryan7tiwary"
