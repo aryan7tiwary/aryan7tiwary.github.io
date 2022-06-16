@@ -1,29 +1,47 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Exposing local network to Internet."
+date: 2022-05-16T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - IP_Forwarding
+  - localhost
+  - ssh
+  - internet
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Exposing local network to Internet.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We'll talk about how to make your local network services public today (internet). There are several methods for doing so, including **port forwarding**, router configuration, and so on. In this blog, we'll use the **SSH** (secure shell) service and the [localhost.run](https://localhost.run/) service.
 
-Jekyll also offers powerful support for code snippets:
+**localhost.run** is a client-less tool to instantly make a locally running application available on an internet accessible URL.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+_To know more_ ➡ [localhost.run](https://localhost.run/docs/)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## To make your local server available on the Internet, follow these steps:
+- Make sure SSH is installed in your device. To install for [Windows](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse). To install for [Linux](https://ubuntu.com/server/docs/service-openssh).
+- Start you [Apache](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview) or any other operator’s server to setup HTTP server.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+#### Terminal Command:
+- ```ssh-keygen```
+
+The command ***ssh-keygen*** will generate a RSA key so that **localhost.run’s** server can identify you.
+
+While generating RSA key you will be asked to enter a **passphrase** it is recommended to use or you may leave it by entering it empty.
+
+#### Terminal Command:
+- ```ssh -R 80:localhost:80 localhost.run```
+
+Here we are going to forward any server on our PORT 80 to localhost.run’s PORT 80 to make it available on internet.
+
+Now you can get your public IP provide by localhost.run in your terminal. The IP address will be in the form of: **(some strings).localhost.run**
+
+Now anyone who search for this IP from any part of the world will be forwarded to your local network and therefore can access your server.
+
+#### This strategy can be applied to a wide variety of attack vectors. Example:
+- **Credential Harvesting**
+- **Downloading backdoors on victim’s machine.**
+- **Rubber ducky attacks**, etc.
+
+
+*[SSH]: Secure Shell
