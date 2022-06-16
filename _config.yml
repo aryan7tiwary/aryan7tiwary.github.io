@@ -54,7 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jeyyll-seo-tag
 author:
   name   : "Aryan"
   avatar : "/assets/images/bio-photo.jpg"
