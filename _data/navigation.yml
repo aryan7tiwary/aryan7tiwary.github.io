@@ -1,11 +1,11 @@
 main:
-  - title: "Posts"
-    url: /blog/
+  - title: "Blog"
+    url: /blog/   
+  - title: "Writeups"
+    url: /writeups/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Writeups"
-    url: /writeups/
