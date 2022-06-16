@@ -1,5 +1,5 @@
 ---
-title: "Exposing local network to Internet."
+title: "Exposing local networks to the Internet."
 date: 2022-05-16T15:34:30-04:00
 categories:
   - blog
@@ -9,8 +9,6 @@ tags:
   - ssh
   - internet
 ---
-
-# Exposing local network to Internet.
 
 We'll talk about how to make your local network services public today (internet). There are several methods for doing so, including **port forwarding**, router configuration, and so on. In this blog, we'll use the **SSH** (secure shell) service and the [localhost.run](https://localhost.run/) service.
 
