@@ -1,6 +1,6 @@
 ---
 title: "Exposing local networks to the Internet."
-date: 2022-05-16T15:34:30-04:00
+date: 2022-06-16T15:34:30-04:00
 categories:
   - blog
 tags:
