@@ -57,7 +57,7 @@ plugins:
   - jeyyll-seo-tag
 author:
   name   : "Aryan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio.jpg"
   bio    : "Blogs, Writeups and more stuffs!"
   links:
 
