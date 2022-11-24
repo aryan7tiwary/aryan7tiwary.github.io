@@ -17,7 +17,7 @@ tags:
 
 ># Context:
 **This blog will be divided into smaller sections:**
-1. [What is CompTIA Security+?](https://aryan7tiwary/blog/I-passed-sec+/#what-is-comptia-security)
+1. [What is CompTIA Security+?](https://aryan7tiwary.github.io/blog/I-passed-sec+/#1-what-is-comptia-security)
 2. What is covered in this certification?
 3. How did I prepare for it?
 4. How was my "remote" exam experience?
