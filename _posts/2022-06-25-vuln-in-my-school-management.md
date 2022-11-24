@@ -1,5 +1,5 @@
 ---
-title: "How I Hacked My School's Management Service Provider"
+title: "How I Reported a Vulnerability to My School's Management Service Provider"
 date: 2022-06-25T15:34:30-04:00
 categories:
   - blog
