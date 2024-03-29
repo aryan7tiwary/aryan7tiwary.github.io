@@ -11,6 +11,8 @@ tags:
   - CompTIACertified
 ---
 
+>![CompTIA Security+ Certificate](https://i.imgur.com/3Yki161.png){:class="img-responsive"}
+
 > My recent CompTIA Security+ certification exam was successful. This certification, which is a [DoD-approve](https://public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/) security professional credential, is the first step in realising my ambition of becoming an authority on cybersecurity.
 >
 > This exam was a fantastic learning experience, so I'm quite pleased with myself for taking it. I gained a lot of knowledge about cybersecurity, and I now have more faith in my ability to use security technologies that are already at my disposal and to safeguard firm data and assets.
@@ -20,8 +22,6 @@ tags:
 1. [What is CompTIA Security+?](https://aryan7tiwary.github.io/blog/I-passed-sec+/#1-what-is-comptia-security)
 2. [What is covered in this certification?](https://aryan7tiwary.github.io/blog/I-passed-sec+/#2-what-is-covered-in-this-certification)
 3. [How did I prepare for it?](http://aryan7tiwary.github.io/blog/I-passed-sec+/#3-how-did-i-prepare-for-it)
-4. How was my "remote" exam experience?
-5. How does it impact my life?
 
 ># 1. What is CompTIA Security+?
 >
@@ -62,5 +62,8 @@ tags:
 >
 >I used to watch his videos (YouTube) every day. If there wasn't something that was hard to grasp, I watched it at 1.5x speed. I took notes on my own when I watched the videos. I used obsidian to make notes digitally.
 You can find my notes here: [CompTIA Security+ notes](https://aryan7tiwary.gitbook.io/comptia-security+/)
-
-
+>
+>
+<u>Test! Test! Test!
+>
+>I conducted more tests than I had revised my notes. I believed an app I discovered on the Play Store was a real find. When I was idle or waiting in line for something, I would open it up, select my least strong objective, and begin answering the questions. Even if I gave the incorrect response, the app would still explain it to me and make me feel better about asking the same question the next time I use it.
