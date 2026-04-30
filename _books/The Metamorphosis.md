@@ -1,0 +1,16 @@
+---
+title: "The Metamorphosis"
+author: "Franz Kafka"
+cover: "/assets/images/books/The_Metamorphosis.jpg"
+---
+**About Book:** Gregor Samsa hates his job. He works himself to exhaustion as a traveling salesman to support a family that takes him for granted. One morning, his whole life changes. He wakes up to discover that he has turned into a giant insect. As he and his family come to grips with the fantastical event, The Metamorphosis explores themes of alienation, family loyalty, and unconditional love.
+
+---
+
+# Highlights
+- “How about if I sleep a little bit longer and forget all this nonsense”, he thought, but that was something he was unable to do because he was used to sleeping on his right, and in his present state couldn’t get into that position. However hard he threw himself onto his right, he always rolled back to where he was. He must have tried it a hundred times, shut his eyes so that he wouldn’t have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before.
+- “What a quiet life it is the family lead”, said Gregor to himself, and, gazing into the darkness, felt a great pride that he was able to provide a life like that in such a nice home for his sister and parents. But what now, if all this peace and wealth and comfort should come to a horrible and frightening end? That was something that Gregor did not want to think about too much, so he started to move about, crawling up and down the room.
+- Gregor had later earned so much that he was in a position to bear the costs of the whole family, and did bear them. They had even got used to it, both Gregor and the family, they took the money with gratitude and he was glad to provide it, although there was no longer much warm affection given in return. Gregor only remained close to his sister now.
+- Whenever they began to talk of the need to earn money, Gregor would always first let go of the door and then throw himself onto the cool, leather sofa next to it, as he became quite hot with shame and regret.
+- For the first fourteen days, Gregor’s parents could not bring themselves to come into the room to see him. He would often hear them say how they appreciated all the new work his sister was doing even though, before, they had seen her as a girl who was somewhat useless and frequently been annoyed with her. But now the two of them, father and mother, would often both wait outside the door of Gregor’s room while his sister tidied up in there, and as soon as she went out again she would have to tell them exactly how everything looked, what Gregor had eaten, how he had behaved this time and whether, perhaps, any slight improvement could be seen.
+- Then, quietly, almost whispering as if wanting Gregor (whose whereabouts she did not know) to hear not even the tone of her voice, as she was convinced that he did not understand her words, she added “and by taking the furniture away, won’t it seem like we’re showing that we’ve given up all hope of improvement and we’re abandoning him to cope for himself? I think it’d be best to leave the room exactly the way it was before so that when Gregor comes back to us again he’ll find everything unchanged and he’ll be able to forget the time in between all the easier”.
