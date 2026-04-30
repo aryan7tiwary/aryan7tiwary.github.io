@@ -5,3 +5,5 @@ main:
     url: /categories/
   - title: "Resume"
     url: /resume/
+  - title: "Books"
+    url: /books/

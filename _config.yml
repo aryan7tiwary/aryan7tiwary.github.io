@@ -93,6 +93,11 @@ footer:
       icon: "fab fa-fw fa-discord"
       url: "https://discord.com/users/721403353476628510"
 
+collections:
+  books:
+    output: true
+    permalink: /books/:title/
+
 defaults:
   # _posts
   - scope:
@@ -113,6 +118,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 category_archive:
   type: liquid
